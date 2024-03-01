@@ -1,0 +1,15 @@
+/Users/jochemtan/RiderProjects/AdventOfCode/Trebucket/bin/Debug/net8.0/Trebucket
+/Users/jochemtan/RiderProjects/AdventOfCode/Trebucket/bin/Debug/net8.0/Trebucket.deps.json
+/Users/jochemtan/RiderProjects/AdventOfCode/Trebucket/bin/Debug/net8.0/Trebucket.runtimeconfig.json
+/Users/jochemtan/RiderProjects/AdventOfCode/Trebucket/bin/Debug/net8.0/Trebucket.dll
+/Users/jochemtan/RiderProjects/AdventOfCode/Trebucket/bin/Debug/net8.0/Trebucket.pdb
+/Users/jochemtan/RiderProjects/AdventOfCode/Trebucket/obj/Debug/net8.0/Trebucket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jochemtan/RiderProjects/AdventOfCode/Trebucket/obj/Debug/net8.0/Trebucket.AssemblyInfoInputs.cache
+/Users/jochemtan/RiderProjects/AdventOfCode/Trebucket/obj/Debug/net8.0/Trebucket.AssemblyInfo.cs
+/Users/jochemtan/RiderProjects/AdventOfCode/Trebucket/obj/Debug/net8.0/Trebucket.csproj.CoreCompileInputs.cache
+/Users/jochemtan/RiderProjects/AdventOfCode/Trebucket/obj/Debug/net8.0/Trebucket.dll
+/Users/jochemtan/RiderProjects/AdventOfCode/Trebucket/obj/Debug/net8.0/refint/Trebucket.dll
+/Users/jochemtan/RiderProjects/AdventOfCode/Trebucket/obj/Debug/net8.0/Trebucket.pdb
+/Users/jochemtan/RiderProjects/AdventOfCode/Trebucket/obj/Debug/net8.0/Trebucket.genruntimeconfig.cache
+/Users/jochemtan/RiderProjects/AdventOfCode/Trebucket/obj/Debug/net8.0/ref/Trebucket.dll
+/Users/jochemtan/RiderProjects/AdventOfCode/Trebucket/bin/Debug/net8.0/resources/input.txt
